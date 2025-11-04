@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/notes-application-features-and-design-overview-39190-39272/notes_app_presentation_frontend"
+}
